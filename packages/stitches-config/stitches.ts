@@ -46,6 +46,7 @@ export const {
     colors: {
       ...baseColors,
       ...themesColors,
+      "purple100": "#dd99ff"
     },
     fonts: {
       ...fonts,
