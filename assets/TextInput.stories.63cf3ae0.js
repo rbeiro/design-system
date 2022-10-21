@@ -1,0 +1,2 @@
+import{c as r}from"./index.a74dc2a1.js";import"./index.696d880a.js";import"./iframe.a5d94251.js";import"./index.309fcd70.js";import"./jsx-runtime.7bac2782.js";const a={title:"Form/Text Input",component:r,args:{}},p={args:{placeholder:"Type your name"}},m={args:{disabled:!0}},n={args:{prefix:"col.com/"}},c=["Primary","Disabled","WithPrefix"];export{m as Disabled,p as Primary,n as WithPrefix,c as __namedExportsOrder,a as default};
+//# sourceMappingURL=TextInput.stories.63cf3ae0.js.map
